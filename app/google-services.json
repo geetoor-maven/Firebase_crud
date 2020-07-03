@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444929445711",
+    "firebase_url": "https://shegi-developer.firebaseio.com",
+    "project_id": "shegi-developer",
+    "storage_bucket": "shegi-developer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444929445711:android:d72d6a1c9a45868a46ff3a",
+        "android_client_info": {
+          "package_name": "com.shegi.fire_base_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444929445711-u8e59736prhb54bdvjgarn0dk7iab2f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shegi.fire_base_crud",
+            "certificate_hash": "23c7caa7994428f9b25d20ec0d44e42e2163f331"
+          }
+        },
+        {
+          "client_id": "444929445711-4ilc1op197b8c4r9ijjj7peve78c7bmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb5NZmHcKJFNE0GGDeqpdS79_Sm5u-1co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444929445711-4ilc1op197b8c4r9ijjj7peve78c7bmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
